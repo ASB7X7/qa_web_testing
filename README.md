@@ -1,29 +1,39 @@
-# qa_web_testing
+# QA Web Testing Portfolio
 
-## О проекте
+Учебный pet-проект, демонстрирующий базовые навыки ручного тестирования.
 
-Учебный pet-проект
+## Что входит в проект
+
+- ✅ Checklist
+- ✅ Test Cases
+- ✅ Bug Reports
+- ✅ SQL-запросы
+- ✅ API Testing (Postman)
 
 ## Используемые инструменты
 
 - Manual Testing
-- Test Cases
-- Checklists
-- Bug Reports
-- Chrome DevTools
-- HTTP
-- REST API
 - Postman
+- REST API
+- JSON
 - SQL
 - Git
 - GitHub
 
 ## Структура проекта
 
-- Checklist
-- Test Cases
-- Bug Reports
-- SQL
-- API Testing
+```
+qa_web_testing
+│
+├── README.md
+├── Checklist.md
+├── TestCases.md
+├── BugReports.md
+├── SQL
+│   └── queries.sql
+└── API
+    ├── README.md
+    └── TBank_QA_API.postman_collection.json
+```
 
-Проект постоянно дополняется.
+Проект создан для подготовки к стажировке QA Engineer.

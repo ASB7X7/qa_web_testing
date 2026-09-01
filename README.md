@@ -4,11 +4,11 @@
 
 ## Что входит в проект
 
-- ✅ Checklist
-- ✅ Test Cases
-- ✅ Bug Reports
-- ✅ SQL-запросы
-- ✅ API Testing (Postman)
+- Checklist
+- Test Cases
+- Bug Reports
+- SQL-запросы
+- API Testing (Postman)
 
 ## Используемые инструменты
 
